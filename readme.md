@@ -1,13 +1,13 @@
-Take a clone using "git clone https://github.com/jatin-optimus/newsAppDemo.git".
+1). Take a clone using "git clone https://github.com/jatin-optimus/newsAppDemo.git".
 
 
-Run "npm install".
+2). Run "npm install".
 
 
-Run "bower install".
+3). Run "bower install".
 
 
-Finally run "gulp serve".
+4). Finally run "gulp serve".
 
 
-You have your running application :)....
+5). You have your running application :)....
