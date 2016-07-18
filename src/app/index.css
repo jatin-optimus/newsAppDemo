@@ -1,0 +1,40 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+.thumbnail {
+  height: 200px;
+}
+
+.thumbnail img.pull-right {
+  width: 50px;
+}
+
+.jumbotron {
+  background-color: #ffffff;
+}
+
+.jatin-pic {
+  margin-bottom: 1em;
+}
+
+.contact-form-push-down {
+  margin-top: 4em;
+}
+
+.error-alert {
+  color: darkred;
+}
+
+.inno-logo-style {
+    width: 120px;
+    padding-bottom: 6px;
+    height: 31px;
+}
+
+.search-box-style {
+    margin-bottom: 1em;
+}
